@@ -37,6 +37,10 @@ The server starts listening on the port specified in the process.env.PORT variab
 A message is logged to indicate that the server is running and listening on the specified port.
 In summary, this code creates a simple Express.js application that provides an API endpoint to fetch information about the client's IP address, language, and user agent software. It's an example of how to build a basic API to gather client data using Node.js and Express.js.
 
+# Solution Challenge
+In this challenge I tried to get as close as possible to your solution:
+- Live Site URL: [Replit](https://replit.com/@AndresF-Sanchez/boilerplate-project-headerparser)
+
 # Author
 
 - Author - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
